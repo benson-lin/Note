@@ -64,12 +64,12 @@ var1, var2, ..., varn = exp1, exp2, ..., expn
 
 ## Python Data Types
 
-Python 有5种标准的数据类型(具体的在其他文章中)：
+Python 有5种标准的数据类型(具体的在下面的其他文章中)：
 
 - Numbers(数字)
 - String(字符串)
-- List(数组)
-- Tuple
+- List(列表)
+- Tuple(不可变元组)
 - Dictionary(key-value形式，类比Java中的HashMap)
 - Boolean
 
