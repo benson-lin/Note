@@ -11,6 +11,10 @@
 - [Python lists](https://github.com/zebinlin/Note/blob/master/Python/2016-04-22-python-lists.md)
 - [Python dictionaries](https://github.com/zebinlin/Note/blob/master/Python/2016-04-22-python-dictionaries.md)
 - [Python tuples](https://github.com/zebinlin/Note/blob/master/Python/2016-04-22-python-tuples.md)
+- [Python 数据类型转换](https://github.com/zebinlin/Note/blob/master/Python/2016-04-23-python-datatype-conversion.md)
+- [Python 函数](https://github.com/zebinlin/Note/blob/master/Python/2016-04-23-python-functions.md)
+- [Python 循环](https://github.com/zebinlin/Note/blob/master/Python/2016-04-23-python-loops.md)
+- [Python math函数 & random产生随机数](https://github.com/zebinlin/Note/blob/master/Python/2016-04-23-python-mathematical-function-and-generating-random-numbers.md)
 
 
 ## Linux
