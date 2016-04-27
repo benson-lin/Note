@@ -15,7 +15,17 @@
 - [Python 函数](https://github.com/zebinlin/Note/blob/master/Python/2016-04-23-python-functions.md)
 - [Python 循环](https://github.com/zebinlin/Note/blob/master/Python/2016-04-23-python-loops.md)
 - [Python math函数 & random产生随机数](https://github.com/zebinlin/Note/blob/master/Python/2016-04-23-python-mathematical-function-and-generating-random-numbers.md)
-
+- [Python 文件处理](https://github.com/zebinlin/Note/blob/master/Python/2016-04-24-python-file-handling.md)
+- [Python 对象和类](https://github.com/zebinlin/Note/blob/master/Python/2016-04-24-python-object-and-classes.md)
+- [Python 文件处理](https://github.com/zebinlin/Note/blob/master/Python/2016-04-24-python-file-handling.md)
+- [Python 运算符覆盖](https://github.com/zebinlin/Note/blob/master/Python/2016-04-24-python-operator-overloading.md)
+- [Python 继承和多态](https://github.com/zebinlin/Note/blob/master/Python/2016-04-24-python-inheritance-and-polymorphism.md)
+- [Python 异常处理](https://github.com/zebinlin/Note/blob/master/Python/2016-04-24-python-exception-handling.md)
+- [Python 模块](https://github.com/zebinlin/Note/blob/master/Python/2016-04-24-python-modules.md)
+- [Python args 和 kwargs](https://github.com/zebinlin/Note/blob/master/Python/2016-04-27-python-args-and-kwargs.md)
+- [Python generators](https://github.com/zebinlin/Note/blob/master/Python/2016-04-27-python-generators.md)
+- [Python 递归函数](https://github.com/zebinlin/Note/blob/master/Python/2016-04-27-python-recursive-functions.md)
+- [Python 正则表达式](https://github.com/zebinlin/Note/blob/master/Python/2016-04-27-python-regular-expression.md)
 
 ## Linux
 
