@@ -13,7 +13,11 @@ Python 中的 Tuples(元组) 与 List 非常相似，但是一旦 tuple被创建
 >>> t1 = () # creates an empty tuple with no data
 >>> t2 = (11,22,33)
 >>> t3 = tuple([1,2,3,4,4]) # tuple from array
->>> t4 = tuple("abc") # tuple from string
+>>> t4 = tuple("abc") # tuple from string 
+# 看到有书说：如果要构造只有一个值的元组，至少需要一个逗号，否则报错，我测试过是没问题的
+>>> t6 = (34)
+>>> t6
+34
 ```
 
 ## Tuples functions
@@ -57,3 +61,9 @@ True
 >>> 22 not in t
 False
 ```
+
+## What is the meaning of tuple
+
+元组有什么用呢？为什么不能只使用列表？因为元组有不可替代的作用：
+- 元组可以在Dictionary数据结构中当键使用，而列表不行(Dictionary一节有示例)
+- 元组作为很多内建函数和方法的返回值，此时你只能对元组进行处理，而不能修改元组
