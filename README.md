@@ -34,6 +34,5 @@
 ## HTTP协议
 
 - [缓存](https://github.com/zebinlin/Note/blob/master/HTTP/2016-04-19-cache.md)
-
-
+- [实体与编码](https://github.com/zebinlin/Note/blob/master/HTTP/2016-05-29-http-entity-and-encoding.md)
 
