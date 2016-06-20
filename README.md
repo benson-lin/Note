@@ -1,5 +1,24 @@
 # 目录
 
+
+
+## HTTP协议
+
+- [缓存](https://github.com/zebinlin/Note/blob/master/HTTP/2016-04-19-cache.md)
+- [实体与编码](https://github.com/zebinlin/Note/blob/master/HTTP/2016-05-29-http-entity-and-encoding.md)
+
+
+## 小知识点
+
+- [Linux分区](https://github.com/zebinlin/Note/blob/master/Little-Knowledge-Point/2016-06-14-linux-partition.md)
+
+
+## 转载
+
+- [IE历史20年](https://github.com/zebinlin/Note/blob/master/Reproduction/2016-06-12-IE-history.md)
+- [IO同步/异步/阻塞/非阻塞](https://github.com/zebinlin/Note/blob/master/Reproduction/2016-06-13-IO-block.md)
+
+
 ## Python
 
 - [Python 介绍](https://github.com/zebinlin/Note/blob/master/Python/2016-04-20-python-introduction.md)
@@ -26,13 +45,3 @@
 - [Python generators](https://github.com/zebinlin/Note/blob/master/Python/2016-04-27-python-generators.md)
 - [Python 递归函数](https://github.com/zebinlin/Note/blob/master/Python/2016-04-27-python-recursive-functions.md)
 - [Python 正则表达式](https://github.com/zebinlin/Note/blob/master/Python/2016-04-27-python-regular-expression.md)
-
-## Linux
-
-
-
-## HTTP协议
-
-- [缓存](https://github.com/zebinlin/Note/blob/master/HTTP/2016-04-19-cache.md)
-- [实体与编码](https://github.com/zebinlin/Note/blob/master/HTTP/2016-05-29-http-entity-and-encoding.md)
-
