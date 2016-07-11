@@ -1,4 +1,4 @@
-﻿# 目录
+# 目录
 
 
 
@@ -11,9 +11,11 @@
 ## 小知识点
 
 - [Linux分区](https://github.com/benson-lin/Note/blob/master/Little-Knowledge-Point/2016-06-14-linux-partition.md)
+- [身份证校验码怎么来的](https://github.com/benson-lin/Note/blob/master/Little-Knowledge-Point/2016-06-26-id-check-code.md)
+- [aliyun OSS](https://github.com/benson-lin/Note/blob/master/Little-Knowledge-Point/2016-07-10-aliyun-production-oss.md)
 
 
-## 转载
+## Reproduction
 
 - [IE历史20年](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-12-IE-history.md)
 - [IO同步/异步/阻塞/非阻塞](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-13-IO-block.md)
@@ -22,6 +24,14 @@
 - [CDATA](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-20-cdata.md)
 - [公有云一定比私有云危险？](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-15-public-cloud%20security%20.md)
 - [图像压缩原理](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-20-principle-of-image-compression%20.md)
+- [一致性hash][https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-21-consistent-hash.md]
+- [https](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-22-https.md)
+- [负载均衡几种算法](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-26-load-balancing-algorithm.md)
+- [历史上为何没有1582年10月5-14日这十天？](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-07-03-why-1582-10-5-to-14-not-exist.md)
+
+## Design
+
+-[设计四大原则之一：亲密性]()
 
 ## Python
 

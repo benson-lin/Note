@@ -1,4 +1,4 @@
-# OSS （Object Storage Service，对象存储）
+# 阿里云产品-OSS（Object Storage Service，对象存储）
 
 ### 产品和架构
 
@@ -63,7 +63,7 @@ OSS不存在目录这个物理的，只是加了个/，用来表示目录，更�
 
 HTTP协议访问
 
-http://<bucket>.oss.aliyuncs.com/pathname/to/object
+`http://<bucket>.oss.aliyuncs.com/pathname/to/object`
 
 浏览器进入到OSS，SLB/LVS负载均衡服务
 
@@ -82,55 +82,3 @@ http://<bucket>.oss.aliyuncs.com/pathname/to/object
 持久存储层 3个master，多个chunk server
 
 ![](img/2016-07-10-oss4.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
