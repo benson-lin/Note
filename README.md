@@ -1,7 +1,5 @@
 # 目录
 
-
-
 ## HTTP协议
 
 - [缓存](https://github.com/benson-lin/Note/blob/master/HTTP/2016-04-19-cache.md)
@@ -24,14 +22,14 @@
 - [CDATA](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-20-cdata.md)
 - [公有云一定比私有云危险？](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-15-public-cloud%20security%20.md)
 - [图像压缩原理](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-20-principle-of-image-compression%20.md)
-- [一致性hash][https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-21-consistent-hash.md]
+- [一致性hash](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-21-consistent-hash.md)
 - [https](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-22-https.md)
 - [负载均衡几种算法](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-26-load-balancing-algorithm.md)
 - [历史上为何没有1582年10月5-14日这十天？](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-07-03-why-1582-10-5-to-14-not-exist.md)
 
 ## Design
 
--[设计四大原则之一：亲密性]()
+- [设计四大原则之一：亲密性]()
 
 ## Python
 
