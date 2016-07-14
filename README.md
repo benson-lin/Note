@@ -29,7 +29,9 @@
 
 ## Design
 
-- [设计四大原则之一：亲密性]()
+- [设计四大原则之一：亲密性](https://github.com/benson-lin/Note/blob/master/Design/2016-07-11-design-proximity.md)
+- [设计四大原则之一：对齐性](https://github.com/benson-lin/Note/blob/master/Design/2016-07-13-design-alignment.md)
+
 
 ## Python
 
