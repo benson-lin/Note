@@ -26,12 +26,13 @@
 - [https](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-22-https.md)
 - [负载均衡几种算法](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-26-load-balancing-algorithm.md)
 - [历史上为何没有1582年10月5-14日这十天？](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-07-03-why-1582-10-5-to-14-not-exist.md)
+- [FLV格式解析](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-07-16-flv.md)
 
 ## Design
 
 - [设计四大原则之一：亲密性](https://github.com/benson-lin/Note/blob/master/Design/2016-07-11-design-proximity.md)
 - [设计四大原则之一：对齐性](https://github.com/benson-lin/Note/blob/master/Design/2016-07-13-design-alignment.md)
-
+- [设计四大原则之一：重复性](https://github.com/benson-lin/Note/blob/master/Design/2016-07-16-design-repetition.md)
 
 ## Python
 
