@@ -11,7 +11,7 @@
 - [Linux分区](https://github.com/benson-lin/Note/blob/master/Little-Knowledge-Point/2016-06-14-linux-partition.md)
 - [身份证校验码怎么来的](https://github.com/benson-lin/Note/blob/master/Little-Knowledge-Point/2016-06-26-id-check-code.md)
 - [aliyun OSS](https://github.com/benson-lin/Note/blob/master/Little-Knowledge-Point/2016-07-10-aliyun-production-oss.md)
-
+- [历史上为何没有1582年10月5-14日这十天？](https://github.com/benson-lin/Note/blob/master/Little-Knowledge-Point/2016-07-03-why-1582-10-5-to-14-not-exist.md)
 
 ## Reproduction
 
@@ -25,8 +25,10 @@
 - [一致性hash](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-21-consistent-hash.md)
 - [https](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-22-https.md)
 - [负载均衡几种算法](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-06-26-load-balancing-algorithm.md)
-- [历史上为何没有1582年10月5-14日这十天？](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-07-03-why-1582-10-5-to-14-not-exist.md)
 - [FLV格式解析](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-07-16-flv.md)
+- [Java Double计算不精确问题](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-08-03-java-double-not-accurate-bigdecimal.md)
+- [13年编码调试测试经验](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-08-14-13-years-bug.md)
+- [隐藏加密算法是不是比直接公开更安全？](https://github.com/benson-lin/Note/blob/master/Reproduction/2016-08-14-is-open-encryption-algorithm-safer.md)
 
 ## Design
 
