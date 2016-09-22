@@ -3,8 +3,7 @@
 ## 创建项目
 
 首先，你需要再新建一个 Android 项目，项目名可以叫做 ActivityTest，包名我们就使用
-默认值 com.example.activitytest。新建项目的步骤你已经在上一章学习过了，不过图 1.12 中
-的那一步需要稍做修改，我们不再勾选 Create Activity 这个选项，因为这次我们准备手动创
+默认值 com.example.activitytest。我们不勾选 Create Activity 这个选项，因为这次我们准备手动创
 建活动，
 
 
