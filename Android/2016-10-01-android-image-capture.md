@@ -114,3 +114,59 @@ public class MainActivity extends Activity {
 
 
 这样代码就都编写完了，现在将程序运行到手机上，然后点击 Take Photo 按钮就可以进行拍照了
+
+
+## 从相册中选择照片
+
+
+## 不进行裁剪
+
+```xml
+<Button
+android:id="@+id/choose_from_album"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="Choose From Album" />
+```
+
+```java
+ chooseFromAlbum = (Button) findViewById(R.id.choose_from_album);
+        chooseFromAlbum.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Intent.ACTION_PICK,
+                       android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
+                startActivityForResult(intent, CROP_PHOTO);
+
+            }
+        });
+```
+
+```java
+@Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        switch (requestCode) {
+            case CROP_PHOTO:
+                if (resultCode == RESULT_OK) {
+                    try {
+                        Bitmap bitmap = BitmapFactory.decodeStream
+                                (getContentResolver()
+                                        .openInputStream(data.getData()));
+                        picture.setImageBitmap(bitmap); // 将裁剪后的照片显示出来
+                    } catch (FileNotFoundException e) {
+                        e.printStackTrace();
+                    }
+                }
+                break;
+            default:
+                break;
+        }
+    }
+```
+
+intent.getData() 获取选中的手机图片URI地址
+
+
+## 需要进行裁剪
+
+需要保存到临时文件
